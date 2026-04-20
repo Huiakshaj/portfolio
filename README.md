@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my projects, skills, and experience in web development and technology.
 
-🔗 **Live Website:https://huiakshaj.github.io/portfolio/**
+🔗 **Live Website: https://huiakshaj.github.io/portfolio/**
 
 ---
 
